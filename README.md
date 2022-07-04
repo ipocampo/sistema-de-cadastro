@@ -5,6 +5,6 @@
 Para rodar esse projeto em sua maquina, por favor digite:
 
 ```
-rpm install reatct
+node app.js
 
 ```
